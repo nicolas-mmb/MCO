@@ -1,0 +1,113 @@
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.exe.config
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.exe
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.pdb
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csprojAssemblyReference.cache
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.FRM_LOGIN.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.Properties.Resources.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.GenerateResource.cache
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.CoreCompileInputs.cache
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.exe
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.pdb
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.FRM_MAIN.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.REAL_PEDIDO.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.CAD_PRODUTO.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.ESTOQUE.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.FRM_CAD_USER.resources
+E:\#USERS#\nicolas.mmb\Documents\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.ADM_TOOL.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.exe.config
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.exe
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.pdb
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csprojAssemblyReference.cache
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.FRM_CAD_USER.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.FRM_LOGIN.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.FRM_MAIN.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.ADM_TOOL.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.CAD_PRODUTO.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.ESTOQUE.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.REAL_PEDIDO.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.Properties.Resources.resources
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.GenerateResource.cache
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.exe
+C:\Users\nicolas.mmb\iCloudDrive\Desktop\DEVELOPMENT\FACULDADE\LP2A\PROJETO\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.pdb
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.exe.config
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.exe
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\MAID COFFEE OCIDENTAL.pdb
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csprojAssemblyReference.cache
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.FRM_CAD_USER.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.FRM_LOGIN.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.FRM_MAIN.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.ADM_TOOL.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.CAD_PRODUTO.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.ESTOQUE.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.REAL_PEDIDO.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.Properties.Resources.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.GenerateResource.cache
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.CoreCompileInputs.cache
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.exe
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.pdb
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.MAIN_ITEMS.FRM_VENDAS.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.ReportViewer.Design.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.SqlServer.Types.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\EnvDTE.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\stdole.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\Microsoft.MSXML.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID COFFEE OCIDENTAL.csproj.CopyComplete
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.RELATORIOS.REL_VENDAS.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\RdlCompile.cache
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\RdlCompile.compiled
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.RELATORIOS.REL_PRODUTOS.resources
+B:\__USERS__\nicolas.mmb\Desktop\MAID COFFEE OCIDENTAL\MAID COFFEE OCIDENTAL\obj\Debug\MAID_COFFEE_OCIDENTAL.lib.Views.RELATORIOS.REL_USUARIOS.resources
