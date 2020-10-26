@@ -73,7 +73,7 @@ namespace MAID_COFFEE_OCIDENTAL.lib.Models
         public bool ADM(string CPF)
         {
             SqlCMD.Connection = CNTN.ReturnConnection();
-            SqlCMD.CommandText = "SELECT CPFX FROM tb_LOGIN WHERE CPFX = @CPF and IsADM = '1'";
+            SqlCMD.CommandText = "SELECT CPFX FROM tb_LOGIN WHERE CPFX = @CPF and IsADM = '0'";
             SqlCMD.Parameters.AddWithValue("@CPF", CPF);
             try
             {
